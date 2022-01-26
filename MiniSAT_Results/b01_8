@@ -1,0 +1,245 @@
+.40000000000000000000
+cnf_LINE1__false.out
+vars=166 claues=666 restarts=1 conflicts=0 decisions=1 memory=7.00 time=0
+cnf_LINE1__true.out
+vars=163 claues=652 restarts=1 conflicts=0 decisions=1 memory=7.00 time=0
+cnf_LINE1_U37_false.out
+vars=151 claues=594 restarts=2 conflicts=118 decisions=197 memory=7.00 time=0
+cnf_LINE1_U47_true.out
+vars=148 claues=584 restarts=1 conflicts=0 decisions=30 memory=7.00 time=0
+cnf_LINE1_U69_true.out
+vars=28 claues=26 restarts=1 conflicts=0 decisions=1 memory=7.00 time=0
+cnf_LINE2__false.out
+vars=165 claues=665 restarts=1 conflicts=0 decisions=1 memory=7.00 time=0
+cnf_LINE2__true.out
+vars=163 claues=652 restarts=1 conflicts=0 decisions=1 memory=7.00 time=0
+cnf_LINE2_U37_false.out
+vars=151 claues=594 restarts=2 conflicts=118 decisions=197 memory=7.00 time=0
+cnf_LINE2_U47_true.out
+vars=148 claues=584 restarts=1 conflicts=0 decisions=30 memory=7.00 time=0
+cnf_LINE2_U70_true.out
+vars=28 claues=26 restarts=1 conflicts=0 decisions=1 memory=7.00 time=0
+cnf_OUTP_REG__false.out
+vars=114 claues=396 restarts=1 conflicts=0 decisions=1 memory=7.00 time=0
+cnf_OUTP_REG__true.out
+vars=114 claues=396 restarts=1 conflicts=0 decisions=1 memory=7.00 time=0
+cnf_OVERFLW_REG__false.out
+vars=104 claues=341 restarts=1 conflicts=0 decisions=1 memory=7.00 time=0
+cnf_OVERFLW_REG__true.out
+vars=104 claues=341 restarts=1 conflicts=0 decisions=1 memory=7.00 time=0
+cnf_STATO_REG_0___false.out
+vars=139 claues=502 restarts=1 conflicts=0 decisions=25 memory=7.00 time=0
+cnf_STATO_REG_0___true.out
+vars=134 claues=485 restarts=1 conflicts=4 decisions=25 memory=7.00 time=0
+cnf_STATO_REG_0__U34_true.out
+vars=175 claues=654 restarts=1 conflicts=56 decisions=100 memory=7.00 time=0
+cnf_STATO_REG_0__U55_true.out
+vars=179 claues=664 restarts=2 conflicts=172 decisions=294 memory=7.00 time=0.000999
+cnf_STATO_REG_0__U63_true.out
+vars=189 claues=706 restarts=1 conflicts=0 decisions=27 memory=7.00 time=0
+cnf_STATO_REG_1___false.out
+vars=143 claues=517 restarts=1 conflicts=49 decisions=112 memory=7.00 time=0.001999
+cnf_STATO_REG_1___true.out
+vars=129 claues=463 restarts=1 conflicts=16 decisions=44 memory=7.00 time=0
+cnf_STATO_REG_1__U34_true.out
+vars=175 claues=654 restarts=1 conflicts=56 decisions=100 memory=7.00 time=0.000999
+cnf_STATO_REG_1__U43_true.out
+vars=163 claues=612 restarts=1 conflicts=79 decisions=129 memory=7.00 time=0
+cnf_STATO_REG_1__U61_true.out
+vars=187 claues=695 restarts=1 conflicts=33 decisions=81 memory=7.00 time=0
+cnf_STATO_REG_2___false.out
+vars=135 claues=472 restarts=1 conflicts=0 decisions=30 memory=7.00 time=0
+cnf_STATO_REG_2___true.out
+vars=137 claues=497 restarts=1 conflicts=6 decisions=27 memory=7.00 time=0.000999
+cnf_STATO_REG_2__U48_true.out
+vars=108 claues=358 restarts=1 conflicts=2 decisions=22 memory=7.00 time=0.000999
+cnf_STATO_REG_2__U54_true.out
+vars=179 claues=671 restarts=2 conflicts=150 decisions=253 memory=7.00 time=0
+cnf_STATO_REG_2__U57_true.out
+vars=175 claues=657 restarts=2 conflicts=107 decisions=195 memory=7.00 time=0
+cnf_STATO_REG_2__U60_true.out
+vars=174 claues=636 restarts=1 conflicts=13 decisions=49 memory=7.00 time=0
+cnf_STATO_REG_2__U66_true.out
+vars=171 claues=658 restarts=1 conflicts=22 decisions=61 memory=7.00 time=0
+cnf_U34__false.out
+vars=175 claues=654 restarts=1 conflicts=0 decisions=35 memory=7.00 time=0
+cnf_U34_OVERFLW_REG_false.out
+vars=104 claues=340 restarts=1 conflicts=0 decisions=1 memory=7.00 time=0
+cnf_U34_OVERFLW_REG_true.out
+vars=104 claues=340 restarts=1 conflicts=4 decisions=21 memory=7.00 time=0
+cnf_U34__true.out
+vars=175 claues=654 restarts=1 conflicts=56 decisions=100 memory=7.00 time=0.000999
+cnf_U34_U67_true.out
+vars=181 claues=683 restarts=2 conflicts=124 decisions=241 memory=7.00 time=0
+cnf_U35__false.out
+vars=133 claues=473 restarts=1 conflicts=0 decisions=28 memory=7.00 time=0
+cnf_U35__true.out
+vars=131 claues=465 restarts=1 conflicts=15 decisions=38 memory=7.00 time=0.000999
+cnf_U36__false.out
+vars=140 claues=495 restarts=1 conflicts=0 decisions=28 memory=7.00 time=0
+cnf_U36__true.out
+vars=126 claues=440 restarts=1 conflicts=65 decisions=102 memory=7.00 time=0.000999
+cnf_U37__false.out
+vars=151 claues=594 restarts=2 conflicts=118 decisions=197 memory=7.00 time=0
+cnf_U37__true.out
+vars=163 claues=633 restarts=1 conflicts=8 decisions=36 memory=7.00 time=0.000999
+cnf_U37_U62_true.out
+vars=186 claues=693 restarts=1 conflicts=29 decisions=65 memory=7.00 time=0.007998
+cnf_U37_U66_true.out
+vars=171 claues=658 restarts=1 conflicts=22 decisions=61 memory=7.00 time=0
+cnf_U38__false.out
+vars=179 claues=695 restarts=1 conflicts=0 decisions=38 memory=7.00 time=0
+cnf_U38__true.out
+vars=160 claues=590 restarts=1 conflicts=2 decisions=22 memory=7.00 time=0
+cnf_U38_U34_true.out
+vars=175 claues=654 restarts=1 conflicts=56 decisions=100 memory=7.00 time=0
+cnf_U38_U59_true.out
+vars=175 claues=648 restarts=1 conflicts=0 decisions=35 memory=7.00 time=0.000999
+cnf_U38_U65_true.out
+vars=178 claues=662 restarts=1 conflicts=10 decisions=67 memory=7.00 time=0
+cnf_U39__false.out
+vars=195 claues=715 restarts=1 conflicts=0 decisions=34 memory=7.00 time=0.000999
+cnf_U39__true.out
+vars=166 claues=608 restarts=1 conflicts=27 decisions=73 memory=7.00 time=0.000999
+cnf_U39_U55_true.out
+vars=179 claues=664 restarts=2 conflicts=172 decisions=294 memory=7.00 time=0
+cnf_U39_U60_true.out
+vars=174 claues=636 restarts=1 conflicts=13 decisions=49 memory=7.00 time=0.000999
+cnf_U39_U65_true.out
+vars=178 claues=662 restarts=1 conflicts=10 decisions=67 memory=7.00 time=0
+cnf_U40__true.out
+vars=28 claues=26 restarts=1 conflicts=0 decisions=1 memory=7.00 time=0
+cnf_U41__true.out
+vars=28 claues=26 restarts=1 conflicts=0 decisions=1 memory=7.00 time=0
+cnf_U42__false.out
+vars=181 claues=692 restarts=1 conflicts=6 decisions=51 memory=7.00 time=0.000999
+cnf_U42__true.out
+vars=161 claues=591 restarts=1 conflicts=1 decisions=34 memory=7.00 time=0
+cnf_U42_U43_true.out
+vars=163 claues=612 restarts=1 conflicts=79 decisions=129 memory=7.00 time=0
+cnf_U42_U50_true.out
+vars=173 claues=644 restarts=2 conflicts=133 decisions=224 memory=7.00 time=0
+cnf_U42_U62_true.out
+vars=186 claues=693 restarts=1 conflicts=29 decisions=65 memory=7.00 time=0.004999
+cnf_U42_U64_true.out
+vars=189 claues=706 restarts=2 conflicts=141 decisions=237 memory=7.00 time=0.000999
+cnf_U43__false.out
+vars=163 claues=612 restarts=1 conflicts=79 decisions=129 memory=7.00 time=0.002999
+cnf_U43__true.out
+vars=152 claues=556 restarts=1 conflicts=0 decisions=26 memory=7.00 time=0.000999
+cnf_U43_U48_true.out
+vars=108 claues=358 restarts=1 conflicts=2 decisions=22 memory=7.00 time=0
+cnf_U43_U53_true.out
+vars=176 claues=656 restarts=1 conflicts=0 decisions=35 memory=7.00 time=0
+cnf_U43_U66_true.out
+vars=171 claues=658 restarts=1 conflicts=22 decisions=61 memory=7.00 time=0.000999
+cnf_U44__false.out
+vars=114 claues=394 restarts=1 conflicts=0 decisions=1 memory=7.00 time=0
+cnf_U44__true.out
+vars=114 claues=394 restarts=1 conflicts=0 decisions=1 memory=7.00 time=0.000999
+cnf_U45__false.out
+vars=129 claues=446 restarts=1 conflicts=0 decisions=33 memory=7.00 time=0.000999
+cnf_U45__true.out
+vars=132 claues=465 restarts=1 conflicts=4 decisions=29 memory=7.00 time=0.001999
+cnf_U46__false.out
+vars=33 claues=40 restarts=1 conflicts=0 decisions=1 memory=7.00 time=0
+cnf_U46__true.out
+vars=33 claues=40 restarts=1 conflicts=0 decisions=1 memory=7.00 time=0
+cnf_U46_U73_true.out
+vars=115 claues=392 restarts=1 conflicts=0 decisions=27 memory=7.00 time=0.000999
+cnf_U47__false.out
+vars=148 claues=584 restarts=1 conflicts=0 decisions=30 memory=7.00 time=0
+cnf_U47__true.out
+vars=158 claues=594 restarts=1 conflicts=0 decisions=37 memory=7.00 time=0
+cnf_U47_U53_true.out
+vars=176 claues=656 restarts=1 conflicts=0 decisions=35 memory=7.00 time=0.002999
+cnf_U47_U54_true.out
+vars=179 claues=671 restarts=2 conflicts=150 decisions=253 memory=7.00 time=0.000999
+cnf_U47_U55_true.out
+vars=179 claues=664 restarts=2 conflicts=172 decisions=294 memory=7.00 time=0.000999
+cnf_U47_U63_true.out
+vars=189 claues=706 restarts=1 conflicts=0 decisions=27 memory=7.00 time=0.001999
+cnf_U47_U67_true.out
+vars=181 claues=683 restarts=2 conflicts=124 decisions=241 memory=7.00 time=0
+cnf_U48__false.out
+vars=108 claues=358 restarts=1 conflicts=2 decisions=22 memory=7.00 time=0
+cnf_U48__true.out
+vars=108 claues=358 restarts=1 conflicts=0 decisions=1 memory=7.00 time=0.000999
+cnf_U48_U73_true.out
+vars=115 claues=392 restarts=1 conflicts=0 decisions=27 memory=7.00 time=0
+cnf_U49__false.out
+vars=188 claues=698 restarts=1 conflicts=71 decisions=127 memory=7.00 time=0.001999
+cnf_U49__true.out
+vars=183 claues=680 restarts=1 conflicts=68 decisions=114 memory=7.00 time=0.000999
+cnf_U49_U50_true.out
+vars=173 claues=644 restarts=2 conflicts=133 decisions=224 memory=7.00 time=0.000999
+cnf_U49_U61_true.out
+vars=187 claues=695 restarts=1 conflicts=33 decisions=81 memory=7.00 time=0.000999
+cnf_U50__true.out
+vars=174 claues=636 restarts=1 conflicts=13 decisions=49 memory=7.00 time=0.000999
+cnf_U51__false.out
+vars=187 claues=701 restarts=1 conflicts=10 decisions=42 memory=7.00 time=0.000999
+cnf_U51__true.out
+vars=189 claues=706 restarts=1 conflicts=11 decisions=44 memory=7.00 time=0.000999
+cnf_U51_U64_true.out
+vars=189 claues=706 restarts=2 conflicts=141 decisions=237 memory=7.00 time=0
+cnf_U51_U68_true.out
+vars=188 claues=706 restarts=1 conflicts=10 decisions=43 memory=7.00 time=0.000999
+cnf_U52__false.out
+vars=184 claues=691 restarts=1 conflicts=0 decisions=34 memory=7.00 time=0
+cnf_U52__true.out
+vars=182 claues=680 restarts=1 conflicts=0 decisions=37 memory=7.00 time=0.000999
+cnf_U52_U56_true.out
+vars=179 claues=662 restarts=1 conflicts=0 decisions=39 memory=7.00 time=0.000999
+cnf_U52_U68_true.out
+vars=188 claues=706 restarts=1 conflicts=10 decisions=43 memory=7.00 time=0.000999
+cnf_U53__true.out
+vars=175 claues=648 restarts=1 conflicts=0 decisions=35 memory=7.00 time=0
+cnf_U54__true.out
+vars=179 claues=662 restarts=1 conflicts=0 decisions=39 memory=7.00 time=0
+cnf_U55__true.out
+vars=140 claues=495 restarts=1 conflicts=0 decisions=28 memory=7.00 time=0
+cnf_U56__true.out
+vars=140 claues=495 restarts=1 conflicts=0 decisions=28 memory=7.00 time=0
+cnf_U57__true.out
+vars=140 claues=495 restarts=1 conflicts=0 decisions=28 memory=7.00 time=0
+cnf_U58__true.out
+vars=114 claues=390 restarts=1 conflicts=0 decisions=25 memory=7.00 time=0
+cnf_U59__true.out
+vars=129 claues=446 restarts=1 conflicts=0 decisions=33 memory=7.00 time=0
+cnf_U60__true.out
+vars=129 claues=446 restarts=1 conflicts=0 decisions=33 memory=7.00 time=0
+cnf_U61__true.out
+vars=175 claues=657 restarts=2 conflicts=107 decisions=195 memory=7.00 time=0
+cnf_U62__true.out
+vars=175 claues=657 restarts=2 conflicts=107 decisions=195 memory=7.00 time=0
+cnf_U63__true.out
+vars=178 claues=662 restarts=1 conflicts=10 decisions=67 memory=7.00 time=0
+cnf_U64__true.out
+vars=178 claues=662 restarts=1 conflicts=10 decisions=67 memory=7.00 time=0
+cnf_U65__true.out
+vars=133 claues=473 restarts=1 conflicts=0 decisions=28 memory=7.00 time=0
+cnf_U66__true.out
+vars=133 claues=473 restarts=1 conflicts=0 decisions=28 memory=7.00 time=0.000999
+cnf_U67__true.out
+vars=133 claues=473 restarts=1 conflicts=0 decisions=28 memory=7.00 time=0
+cnf_U68__true.out
+vars=133 claues=473 restarts=1 conflicts=0 decisions=28 memory=7.00 time=0
+cnf_U69__true.out
+vars=33 claues=40 restarts=1 conflicts=0 decisions=1 memory=7.00 time=0
+cnf_U70__true.out
+vars=33 claues=40 restarts=1 conflicts=0 decisions=1 memory=7.00 time=0
+cnf_U71__true.out
+vars=114 claues=390 restarts=1 conflicts=0 decisions=25 memory=7.00 time=0
+cnf_U72__true.out
+vars=114 claues=394 restarts=1 conflicts=0 decisions=1 memory=7.00 time=0.000999
+cnf_U73__true.out
+vars=114 claues=394 restarts=1 conflicts=0 decisions=1 memory=7.00 time=0
+0
+118
+147.55084745762711864406
+538.27966101694915254237
+1.14406779661016949152
+28.89830508474576271186
+66.72033898305084745762
+7.00000000000000000000
