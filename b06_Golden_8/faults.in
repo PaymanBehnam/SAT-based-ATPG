@@ -1,0 +1,365 @@
+test    1: 11 xxxxxx    0 faults detected
+test    2: 10 xxxx00    5 faults detected
+	   ENABLE_COUNT_REG /1
+	   U62->ENABLE_COUNT_REG /1
+	   U62 /1
+	   ACKOUT_REG /1
+	   U62->ACKOUT_REG /1
+test    3: 11 xxxxxx    0 faults detected
+test    4: 01 xxxx00    0 faults detected
+test    5: 00 xxx1xx    2 faults detected
+	   USCITE_REG_1_ /0
+	   U60 /0
+test    6: 10 xxx1xx    0 faults detected
+test    7: 11 xxxxxx    0 faults detected
+test    8: 00 xxxx00    0 faults detected
+test    9: 00 xxx1xx    0 faults detected
+test   10: 00 xxx1xx    0 faults detected
+test   11: 00 xxx1xx    0 faults detected
+test   12: 01 xxx1xx    0 faults detected
+test   13: 01 xxx1xx    0 faults detected
+test   14: 10 xxx1xx    0 faults detected
+test   15: 00 xxxxxx    0 faults detected
+test   16: 01 xxx1xx    0 faults detected
+test   17: 00 xxx1xx    0 faults detected
+test   18: 01 xxx1xx    0 faults detected
+test   19: 11 xxx1xx    0 faults detected
+test   20: 01 xxxx00    0 faults detected
+test   21: 01 xxx1xx    0 faults detected
+test   22: 11 xxx1xx    0 faults detected
+test   23: 10 xxxx00    0 faults detected
+test   24: 00 xxxxxx    0 faults detected
+test   25: 01 xxx1xx    0 faults detected
+test   26: 00 xxx1xx    0 faults detected
+test   27: 00 xxx1xx    0 faults detected
+test   28: 10 xxx1xx    0 faults detected
+test   29: 10 xxxxxx    0 faults detected
+test   30: 11 xxxxxx    0 faults detected
+test   31: 00 xxxx00    0 faults detected
+test   32: 10 xxx1xx    0 faults detected
+test   33: 00 xxxxxx    0 faults detected
+test   34: 11 xxx1xx    0 faults detected
+test   35: 11 xxxx00    0 faults detected
+test   36: 10 xxxx00    0 faults detected
+test   37: 00 xxxxxx    0 faults detected
+test   38: 11 xxx1xx    0 faults detected
+test   39: 10 xxxx00    0 faults detected
+test   40: 00 xxxxxx    0 faults detected
+test   41: 11 xxx1xx    0 faults detected
+test   42: 01 xxxx00    0 faults detected
+test   43: 11 xxx1xx    0 faults detected
+test   44: 01 xxxx00    0 faults detected
+test   45: 11 xxx1xx    0 faults detected
+test   46: 11 xxxx00    0 faults detected
+test   47: 00 xxxx00    0 faults detected
+test   48: 00 xxx1xx    0 faults detected
+test   49: 01 xxx1xx    0 faults detected
+test   50: 00 xxx1xx    0 faults detected
+test   51: 01 xxx1xx    0 faults detected
+test   52: 10 xxx1xx    0 faults detected
+test   53: 11 xxxxxx    0 faults detected
+test   54: 11 xxxx00    0 faults detected
+test   55: 10 xxxx00    0 faults detected
+test   56: 10 xxxxxx    0 faults detected
+test   57: 00 xxxxxx    0 faults detected
+test   58: 10 xxx1xx    0 faults detected
+test   59: 01 xxxxxx    0 faults detected
+test   60: 01 xxx1xx    0 faults detected
+test   61: 10 xxx1xx    0 faults detected
+test   62: 01 xxxxxx    0 faults detected
+test   63: 11 xxx1xx    0 faults detected
+test   64: 10 xxxx00    0 faults detected
+test   65: 10 xxxxxx    0 faults detected
+test   66: 01 xxxxxx    0 faults detected
+test   67: 01 xxx1xx    0 faults detected
+test   68: 01 xxx1xx    0 faults detected
+test   69: 01 xxx1xx    0 faults detected
+test   70: 00 xxx1xx    0 faults detected
+test   71: 11 xxx1xx    0 faults detected
+test   72: 01 xxxx00    0 faults detected
+test   73: 01 xxx1xx    0 faults detected
+test   74: 01 xxx1xx    0 faults detected
+test   75: 00 xxx1xx    0 faults detected
+test   76: 10 xxx1xx    0 faults detected
+test   77: 01 xxxxxx    0 faults detected
+test   78: 10 xxx1xx    0 faults detected
+test   79: 10 xxxxxx    0 faults detected
+test   80: 00 xxxxxx    0 faults detected
+test   81: 10 xxx1xx    0 faults detected
+test   82: 11 xxxxxx    0 faults detected
+test   83: 10 xxxx00    0 faults detected
+test   84: 10 xxxxxx    0 faults detected
+test   85: 11 xxxxxx    0 faults detected
+test   86: 11 xxxx00    0 faults detected
+test   87: 01 xxxx00    0 faults detected
+test   88: 11 xxx1xx    0 faults detected
+test   89: 00 xxxx00    0 faults detected
+test   90: 10 xxx1xx    0 faults detected
+test   91: 10 xxxxxx    0 faults detected
+test   92: 10 xxxxxx    0 faults detected
+test   93: 00 xxxxxx    0 faults detected
+test   94: 00 xxx1xx    0 faults detected
+test   95: 11 xxx1xx    0 faults detected
+test   96: 01 xxxx00    0 faults detected
+test   97: 11 xxx1xx    0 faults detected
+test   98: 01 xxxx00    0 faults detected
+test   99: 00 xxx1xx    0 faults detected
+test  100: 10 xxx1xx    0 faults detected
+test  101: 01 xxxxxx    0 faults detected
+test  102: 11 xxx1xx    0 faults detected
+test  103: 11 xxxx00    0 faults detected
+test  104: 00 xxxx00    0 faults detected
+test  105: 01 xxx1xx    0 faults detected
+test  106: 00 xxx1xx    0 faults detected
+test  107: 10 xxx1xx    0 faults detected
+test  108: 00 xxxxxx    0 faults detected
+test  109: 10 xxx1xx    0 faults detected
+test  110: 11 xxxxxx    0 faults detected
+test  111: 00 xxxx00    0 faults detected
+test  112: 01 xxx1xx    0 faults detected
+test  113: 01 xxx1xx    0 faults detected
+test  114: 01 xxx1xx    0 faults detected
+test  115: 11 xxx1xx    0 faults detected
+test  116: 01 xxxx00    0 faults detected
+test  117: 10 xxx1xx    0 faults detected
+test  118: 01 xxxxxx    0 faults detected
+test  119: 10 xxx1xx    0 faults detected
+test  120: 01 xxxxxx    0 faults detected
+test  121: 00 xxx1xx    0 faults detected
+test  122: 11 xxx1xx    0 faults detected
+test  123: 11 xxxx00    0 faults detected
+test  124: 00 xxxx00    0 faults detected
+test  125: 00 xxx1xx    0 faults detected
+test  126: 11 xxx1xx    0 faults detected
+test  127: 01 xxxx00    0 faults detected
+test  128: 11 xxx1xx    0 faults detected
+test  129: 10 xxxx00    0 faults detected
+test  130: 01 xxxxxx    0 faults detected
+test  131: 10 xxx1xx    0 faults detected
+test  132: 11 xxxxxx    0 faults detected
+test  133: 01 xxxx00    0 faults detected
+test  134: 10 xxx1xx    0 faults detected
+test  135: 00 xxxxxx    0 faults detected
+test  136: 00 xxx1xx    0 faults detected
+test  137: 10 xxx1xx    0 faults detected
+test  138: 10 xxxxxx    0 faults detected
+test  139: 00 xxxxxx    0 faults detected
+test  140: 11 xxx1xx    0 faults detected
+test  141: 10 xxxx00    0 faults detected
+test  142: 10 xxxxxx    0 faults detected
+test  143: 10 xxxxxx    0 faults detected
+test  144: 11 xxxxxx    0 faults detected
+test  145: 11 xxxx00    0 faults detected
+test  146: 10 xxxx00    0 faults detected
+test  147: 10 xxxxxx    0 faults detected
+test  148: 00 xxxxxx    0 faults detected
+test  149: 00 xxx1xx    0 faults detected
+test  150: 11 xxx1xx    0 faults detected
+test  151: 01 xxxx00    0 faults detected
+test  152: 00 xxx1xx    0 faults detected
+test  153: 11 xxx1xx    0 faults detected
+test  154: 01 xxxx00    0 faults detected
+test  155: 00 xxx1xx    0 faults detected
+test  156: 11 xxx1xx    0 faults detected
+test  157: 10 xxxx00    0 faults detected
+test  158: 01 xxxxxx    0 faults detected
+test  159: 11 xxx1xx    0 faults detected
+test  160: 11 xxxx00    0 faults detected
+test  161: 10 xxxx00    0 faults detected
+test  162: 00 xxxxxx    0 faults detected
+test  163: 01 xxx1xx    0 faults detected
+test  164: 11 xxx1xx    0 faults detected
+test  165: 10 xxxx00    0 faults detected
+test  166: 01 xxxxxx    0 faults detected
+test  167: 00 xxx1xx    0 faults detected
+test  168: 11 xxx1xx    0 faults detected
+test  169: 00 xxxx00    0 faults detected
+test  170: 00 xxx1xx    0 faults detected
+test  171: 01 xxx1xx    0 faults detected
+test  172: 10 xxx1xx    0 faults detected
+test  173: 10 xxxxxx    0 faults detected
+test  174: 00 xxxxxx    0 faults detected
+test  175: 10 xxx1xx    0 faults detected
+test  176: 10 xxxxxx    0 faults detected
+test  177: 10 xxxxxx    0 faults detected
+test  178: 11 xxxxxx    0 faults detected
+test  179: 10 xxxx00    0 faults detected
+test  180: 10 xxxxxx    0 faults detected
+test  181: 01 xxxxxx    0 faults detected
+test  182: 00 xxx1xx    0 faults detected
+test  183: 10 xxx1xx    0 faults detected
+test  184: 10 xxxxxx    0 faults detected
+test  185: 01 xxxxxx    0 faults detected
+test  186: 10 xxx1xx    0 faults detected
+test  187: 00 xxxxxx    0 faults detected
+test  188: 11 xxx1xx    0 faults detected
+test  189: 00 xxxx00    0 faults detected
+test  190: 11 xxx1xx    0 faults detected
+test  191: 01 xxxx00    0 faults detected
+test  192: 10 xxx1xx    0 faults detected
+test  193: 00 xxxxxx    0 faults detected
+test  194: 10 xxx1xx    0 faults detected
+test  195: 10 xxxxxx    0 faults detected
+test  196: 01 xxxxxx    0 faults detected
+test  197: 00 xxx1xx    0 faults detected
+test  198: 10 xxx1xx    0 faults detected
+test  199: 10 xxxxxx    0 faults detected
+test  200: 00 xxxxxx    0 faults detected
+test  201: 01 xxx1xx    0 faults detected
+test  202: 11 xxx1xx    0 faults detected
+test  203: 01 xxxx00    0 faults detected
+test  204: 00 xxx1xx    0 faults detected
+test  205: 11 xxx1xx    0 faults detected
+test  206: 11 xxxx00    0 faults detected
+test  207: 10 xxxx00    0 faults detected
+test  208: 10 xxxxxx    0 faults detected
+test  209: 01 xxxxxx    0 faults detected
+test  210: 01 xxx1xx    0 faults detected
+test  211: 01 xxx1xx    0 faults detected
+test  212: 10 xxx1xx    0 faults detected
+test  213: 01 xxxxxx    0 faults detected
+test  214: 00 xxx1xx    0 faults detected
+test  215: 01 xxx1xx    0 faults detected
+test  216: 00 xxx1xx    0 faults detected
+test  217: 10 xxx1xx    0 faults detected
+test  218: 11 xxxxxx    0 faults detected
+test  219: 00 xxxx00    0 faults detected
+test  220: 01 xxx1xx    0 faults detected
+test  221: 11 xxx1xx    0 faults detected
+test  222: 11 xxxx00    0 faults detected
+test  223: 11 xxxx00    0 faults detected
+test  224: 11 xxxx00    0 faults detected
+
+ CC_MUX_REG_2_ /0
+ CC_MUX_REG_2_ /1
+ U59 /0
+ U70->U59 /1
+ U85 /1
+ U86 /1
+ U59 /1
+ U71->U85 /1
+ U68->U85 /1
+ STATE_REG_2_->U86 /1
+ U78->U86 /1
+ STATE_REG_2_ /0
+ STATE_REG_2_ /1
+ U57 /0
+ U79 /1
+ U74 /1
+ U80 /1
+ U57 /1
+ U65->U79 /1
+ STATE_REG_2_->U80 /1
+ U78->U80 /1
+ U78 /0
+ U65->U78 /1
+ STATE_REG_1_->U77 /0
+ STATE_REG_0_->U77 /0
+ U78 /1
+ U77 /1
+ U65 /1 potentially detected
+ U65 /0
+ EQL /0 potentially detected
+ EQL /1 potentially detected
+ STATE_REG_1_ /1
+ STATE_REG_1_ /0
+ U56 /1
+ U81 /1
+ U82 /1
+ U56 /0
+ U72->U56 /1
+ U66->U56 /1
+ EQL->U81 /1
+ U67->U81 /1
+ STATE_REG_0_->U81 /1
+ U73->U82 /1
+ STATE_REG_1_->U82 /1
+ U73 /1
+ U73 /0
+ U69 /0
+ STATE_REG_2_->U69 /0
+ STATE_REG_0_->U69 /0
+ U69 /1
+ STATE_REG_0_ /0
+ STATE_REG_0_ /1
+ U55 /0
+ U54->U55 /1
+ U78->U55 /1
+ U55 /1
+ U54 /1
+ U89 /1
+ U90 /1
+ U54 /0
+ U73->U89 /1
+ U64->U89 /1
+ STATE_REG_0_->U90 /1
+ STATE_REG_1_->U90 /1
+ U64 /0
+ U64 /1
+ U67 /1
+ U67 /0
+ U72 /0
+ STATE_REG_2_->U72 /1
+ U68->U72 /1
+ U64->U72 /1
+ U65->U72 /1
+ U72 /1
+ U68 /1
+ U68 /0
+ U66 /0
+ EQL->U66 /1
+ STATE_REG_1_->U66 /1
+ U66 /1
+ U70 /1
+ U70 /0
+ U64->U70 /1
+ U67->U70 /1
+ STATE_REG_0_->U70 /1
+ U71 /0
+ U71 /1
+ CC_MUX_REG_1_ /0
+ CC_MUX_REG_1_ /1
+ U58 /0
+ U69->U58 /1
+ U91 /1
+ U92 /1
+ U87 /1
+ U88 /1
+ U58 /1
+ EQL->U91 /1
+ U64->U91 /1
+ STATE_REG_1_->U92 /1
+ EQL->U87 /1
+ U68->U87 /1
+ STATE_REG_0_->U88 /1
+ STATE_REG_2_->U88 /1
+ USCITE_REG_2_ /0
+ USCITE_REG_2_ /1
+ U61 /0
+ U72->U61 /1
+ U75 /1
+ U61 /1
+ STATE_REG_2_->U75 /1
+ U71->U75 /1
+ USCITE_REG_1_ /1
+ EQL->U60 /1 potentially detected
+ U54->U60 /1
+ U76 /1
+ U60 /1
+ STATE_REG_2_->U76 /1
+ STATE_REG_1_->U76 /1
+ ENABLE_COUNT_REG /0
+ U62->ENABLE_COUNT_REG /0
+ U62 /0
+ U83 /1
+ U63 /0
+ CONT_EQL /0 potentially detected
+ STATE_REG_1_->U83 /1
+ U65->U83 /1 potentially detected
+ U73->U83 /1
+ U84 /1
+ STATE_REG_2_->U63 /1
+ STATE_REG_1_->U63 /1
+ STATE_REG_0_->U63 /1
+ ACKOUT_REG /0
+ U62->ACKOUT_REG /0
